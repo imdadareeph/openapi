@@ -1,0 +1,16 @@
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "Awesome post!",
+      "content" : "Imdad is great!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such cool guy!",
+      "username": "imdadareeph"
+    }
+  ]
+}
