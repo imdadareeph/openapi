@@ -2,7 +2,7 @@
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
-<img src="http://i66.tinypic.com/x6mp6p.jpg" align="right" style="max-width: 120px;">
+<img src="http://i66.tinypic.com/x6mp6p.jpg" align="right" width="100px">
 
 * [**Create your database**](#create-your-database)
 * [Deploy to **Heroku**](#deploy-to-heroku)
@@ -91,7 +91,7 @@ const port = process.env.PORT || 4000;
 
 ---
 
-##Another way
+## Another way
 
 How to
 Create a repository on GitHub (<your-username>/<your-repo>)
