@@ -31,6 +31,8 @@ _this example will create `/posts` route , each resource will have `id`, `title`
 ```
 
 ---
+## Screenshot **Heroku**
+![alt text](http://i66.tinypic.com/97lgk9.jpg "screenshot")
 
 ## Deploy to **Heroku**
 
